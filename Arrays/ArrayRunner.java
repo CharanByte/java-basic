@@ -5,6 +5,7 @@ public class ArrayRunner {
         charArray.characters();
         System.out.println("---------------------------------------------------------------");
         Sweets.sweetNames();
+          Sweets.sweetNames();
     }
     
 }
