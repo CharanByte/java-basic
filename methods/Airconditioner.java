@@ -16,6 +16,6 @@ public class Airconditioner {
         eco();
     }
     public static void eco(){
-        System.out.println("press 5 to get Eco");
+        System.out.println("press 5 to get eco");
     }
 }
